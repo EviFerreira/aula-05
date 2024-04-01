@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-family: cursive;
+    text-shadow: 5px 5px 5px rgb(69, 237, 69);
+    background: linear-gradient(rgb(235, 77, 77));
+    background-color: rgb(212, 162, 237);
+}
+#d1{
+    width: 100px; /*Largura*/
+    height: 75px; /*Altura*/
+    background-color: rgb(130, 83, 173);
+    color: rgb(127, 233, 198); /*Cor da letra*/
+    border: 5px solid rgb(78, 78, 194);
+    margin-left: auto; /*imagem automatica esquerda*/
+    margin-right: auto; /*imagem automatica direita*/
+}
